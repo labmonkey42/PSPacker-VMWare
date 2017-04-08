@@ -1,4 +1,4 @@
-using module .\PSPacker\PSPacker.psd1
+using module PSPacker
 using module .\VMWareVersion.psm1
 
 Class VMWareIsoBuilder : IsoBuilder

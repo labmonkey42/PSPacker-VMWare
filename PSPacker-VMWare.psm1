@@ -1,1 +1,1 @@
-#Import-Module $PSScriptRoot\PSPacker\PSPacker.psd1
+#Import-Module PSPacker
